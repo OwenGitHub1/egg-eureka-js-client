@@ -1,0 +1,4 @@
+####egg-eureka-js-client
+<hr/>
+
+egg-eureka-js-client []() egg插件的实现，就是简单的封装了一下，方便在egg中使用。package.json中依赖的是egg-eureka-js-client最新版本，不会因为egg-eureka-js-client升级而导致问题。

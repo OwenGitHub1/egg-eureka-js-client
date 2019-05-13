@@ -1,0 +1,23 @@
+{
+  "name": "egg-eureka-js-client",
+  "version": "1.0.0",
+  "description": "eureka-js-client for egg js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "eggPlugin": {
+    "name": "eureka"
+  },
+  "keywords": [
+    "eureka",
+    "egg",
+    "egg-plugin",
+    "eggPlugin"
+  ],
+  "dependencies": {
+    "eureka-js-client": "^4.2.2"
+  },
+  "author": "yong.wei",
+  "license": "MIT"
+}
